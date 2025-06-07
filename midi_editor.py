@@ -1,0 +1,1 @@
+# MIDI editor logic with piano roll

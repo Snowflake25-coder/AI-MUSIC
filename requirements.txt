@@ -1,0 +1,7 @@
+streamlit
+mido
+pydub
+pyo
+torch
+torchaudio
+git+https://github.com/facebookresearch/audiocraft.git
